@@ -1,0 +1,55 @@
+.f {
+	margin-left: 40px;
+	margin-right: 60px;
+	padding-top: 30px;
+	background-color: rgb(244, 244, 244);
+	width: 500px;
+	height: 500px;
+	float: right;
+}
+
+.header {
+	text-align: center;
+}
+
+h1 {
+	margin: 0px;
+	background-color: rgb(20, 203, 203);
+	color: white;
+	font-size: 30px;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+body {
+	margin: 0px;
+	background-color: white;
+	font-family: sans-serif;
+}
+
+#res {
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+
+.l {
+	margin-left: 20px;
+	width: 500px;
+	height: 400px;
+	float: left;
+	background-color: black;
+	color: white;
+}
+
+#register, #login {
+	margin-top: 10px;
+	width: 300px;
+	height: 40px;
+	background-color: rgb(220, 220, 220);
+	border: 0px solid white;
+	font-size: 20px;
+}
+
+table tr th {
+	text-align: left;
+}
